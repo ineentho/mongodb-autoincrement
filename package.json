@@ -1,6 +1,6 @@
 {
   "name": "@ineentho/mongodb-autoincrement",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Auto increment support for mongodb and mongoose",
   "repository": {
     "type": "git",
