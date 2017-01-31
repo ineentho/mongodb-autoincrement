@@ -1,10 +1,10 @@
 {
-  "name": "mongodb-autoincrement",
+  "name": "@ineentho/mongodb-autoincrement",
   "version": "1.0.1",
   "description": "Auto increment support for mongodb and mongoose",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TheRoSS/mongodb-autoincrement.git"
+    "url": "git://github.com/ineentho/mongodb-autoincrement.git"
   },
   "dependencies": {},
   "peerDependencies": {
@@ -40,11 +40,11 @@
     "test": "node_modules/mocha/bin/mocha"
   },
   "bugs": {
-    "url": "https://github.com/TheRoSS/mongodb-autoincrement/issues"
+    "url": "https://github.com/ineentho/mongodb-autoincrement/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/TheRoSS/mongodb-autoincrement",
+  "homepage": "https://github.com/ineentho/mongodb-autoincrement",
   "license": "MIT",
   "_id": "mongodb-autoincrement@1.0.0",
   "dist": {}
